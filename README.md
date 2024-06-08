@@ -8,13 +8,10 @@
 
 </div>
 
-<div style="text-align: center; background-color: black; color: orange; padding: 10px;">
+<div style="text-align: center; background-color: black; color: orange; padding: 2px;">
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=asishdash&show_icons=true&locale=en" alt="asishdash" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=asishdash&" alt="asishdash" />
-    </p>
-    <p>
-        How to reach me <a href="mailto:dash.asish@outlook.com" style="color: orange;">dash.asish@outlook.com</a>
     </p>
 </div>
 
