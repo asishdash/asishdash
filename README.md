@@ -26,7 +26,7 @@
 - 💬 Ask me about **AI,ML,Java,AWS,Python,SQL,Data Analytics**
   
 - <p style="text-align: center; background-color: black; color: orange;">
-     📫How to reach me <a href="mailto:dash.asish@outlook.com" style="color: orange;">Email</a>
+     📫How to reach me <a href="mailto:asish.dasht2@outlook.com" style="color: orange;">Email</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
