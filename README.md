@@ -17,8 +17,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asishdash" alt="asishdash" /></a> </p>
-
 - 🔭 I’m currently working on **AI,ML and Data Analytics**
 
 - 🌱 I’m currently learning **Generative AI**
