@@ -10,20 +10,19 @@
 
 <div style="text-align: center; background-color: black; color: orange; padding: 2px;">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=asishdash&show_icons=true&locale=en" alt="asishdash" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=asishdash&" alt="asishdash" />
     </p>
 </div>
 
+> Public stats cards are disabled here because they only show public data.
+> To show private contribution counts, use a self-hosted GitHub Readme Stats instance or GitHub Actions with a token that can read private data.
 
 
-- 🔭 I’m currently working on **AI,ML and Data Analytics**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🔭 I’m currently an **AI Engineer and AI Architect**, helping companies scale with AI solutions
 
-- 🤝 I’m looking for help with **AI,ML and Data Engineering**
 
-- 💬 Ask me about **AI,ML,Java,AWS,Python,SQL,Data Analytics**
+- 💬 Ask me about **AI Engineering, AI Architecture, ML, MLOps, AIOps, Data Science, NLP, CNN, and RNN**
   
 - <p style="text-align: center; background-color: black; color: orange;">
      📫How to reach me <a href="mailto:asish.dasht2@outlook.com" style="color: orange;">Email</a>
