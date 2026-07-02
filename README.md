@@ -3,14 +3,14 @@
 <h3 align="center">A passionate AI developer from India</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asishdash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asishdash&theme=dracula" height="150" alt="languages graph"  />
 
 
 </div>
 
 <div style="text-align: center; background-color: black; color: orange; padding: 2px;">
     <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asishdash&" alt="asishdash" />
+    <img src="https://streak-stats.demolab.com?user=asishdash&theme=dracula&hide_border=false" alt="asishdash" />
     </p>
 </div>
 
