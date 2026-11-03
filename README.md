@@ -10,7 +10,6 @@
 	<a href="mailto:asish.dash@outlook.in">Email</a>
 </p>
 
----
 
 ## Capabilities
 
@@ -22,7 +21,6 @@
 | **Backend & Data** | Developing services with Python, Java, FastAPI, and PostgreSQL |
 | **Cloud & Infrastructure** | Working with Docker, Kubernetes, AWS, and Azure |
 
----
 
 ## Technology
 
